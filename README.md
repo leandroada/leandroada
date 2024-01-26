@@ -1,6 +1,6 @@
 
 <h1>
-  👋 Senior 2D/3D Game | Web3 Expert / Senior Front-end developer
+  👋 Senior 2D/3D Game | Web3 Expert / Front-end developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
