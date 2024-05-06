@@ -1,8 +1,8 @@
 
-<h1>
-  👋 Senior 2D/3D Game|Web3 Expert|Fullstack Web/Mobile dev
+<h2>
+  👋 Senior 2D/3D Game | Web3 Expert | Fullstack Web/Mobile dev
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
