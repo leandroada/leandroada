@@ -1,6 +1,6 @@
 
 <h2>
-  👋 Fullstack Web/Mobile dev | Web3 Expert
+  👋 2D/3D Web/Mobile game dev | Web3 Expert
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
@@ -14,7 +14,7 @@ FullStack Web/Mobile Dev | Web3 expert.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a FullStack Web/Mobile | Web3 Expert.
+- 🔭 I’m currently working as a 2D/3D Web/Mobile game dev | Web3 Expert.
 - 👨‍💻 All of my 2D/3D Web/Mobile game apps | Blockchain | Dashboard apps are available at Github Portfolio.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
