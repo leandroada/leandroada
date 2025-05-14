@@ -1,6 +1,6 @@
 
 <h2>
-  👋 2D/3D Web/Mobile game dev | Web3 Expert
+  👋 2D/3D Web/Mobile dev | Web3 Expert
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
